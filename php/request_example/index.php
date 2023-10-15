@@ -2,6 +2,10 @@
 session_start(); ?>
 <html>
 
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 <body>
   <h1>test login</h1>
   <h2>
